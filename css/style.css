@@ -351,6 +351,22 @@ a:hover {
   border-radius: 0;
   transition: all linear 0.2s;
 }
+.btn-download {
+  background: #fff;
+  border: 2px solid #02bdd5;
+  color: #02bdd5;
+  padding: 15px 34px;
+  margin-top: 20px;
+  font-size: 12px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  border-radius: 0;
+  transition: all linear 0.2s;
+}
+.btn-download:hover {
+  color: #fff;
+  background: #02bdd5;
+}
 #call-to-action .block .btn-contact i {
   margin-right: 10px;
 }
